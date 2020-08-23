@@ -80,7 +80,12 @@ function writeToFile(fileName, data) {
 
 // function to initialize program
 function init() {
-    writeToFile();
+    console.log("test");
+    // Using answers, which is a predefined key word in Inquirer for the answers to the Inquirer prompt.
+    promputUser().then(function(answers){
+        // Calling the function writeToFile with the file name and the content.
+        writeToFile("README.md", generateMarkdown(answers));
+    });  
 }
 
 // function call to initialize program
