@@ -1,9 +1,9 @@
-# Hello world
+# Good Read-Me Generator
 
   
 ## Description 
 
-dfddddddddddddddddddddddddddddd
+This project will prompt the user to input the needed information in order to gereate a concise and well crafted README file for their own project (actually, this is what I used to make my own as well!). Using the Inquirer module from Node, users can put exactly what they want for each section of the README they want to generate, and then the code will create a README.md file in the directory they may use.
 
 
 ## Table of Contents 
@@ -21,37 +21,37 @@ dfddddddddddddddddddddddddddddd
 
 ## Installation
 
-dddddddddddddddddddddddd
+In order to install this project you need to have Node already installed on your computer. Then you can access the terminal in Node and run "npm install" in the command prompt. It should then install everything needed to make this work.
 
 
 ## Usage
 
-ddddddddddddddddddddddddddddddd
+Type in "node index.js" in the command prompt once you are ready to begin answering questions.
 
 
 ## Credits
 
-dddddddddddddddddddddddd
+Me! Alex Varela.
 
 
 ## License
 
-dddddddddddddddddddddddddddd
+test
 
 
 ## Contributing
 
-dddddddddddddddddddddddd
+This is a project of which you are able to alter in any way you see fit. Open source!
 
 
 ## Tests
 
-dddddddddddddddddddddddddddd
+No tests were created for this application.
 
 
 ## Questions
 
-dddddddddddddddddddddddd
+Contact me via email
 
 
 ---
