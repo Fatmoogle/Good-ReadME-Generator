@@ -2,7 +2,7 @@
 function generateMarkdown(data) {
   return `# ${data.title}
 
-  
+
 ## Description 
 
 ${data.description}
@@ -54,6 +54,12 @@ ${data.tests}
 ## Questions
 
 ${data.questions}
+
+Reach out to me!
+
+Email: ${email}
+GitHub Profile: ${username} || ${url} 
+
 
 
 ---

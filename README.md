@@ -36,7 +36,7 @@ Me! Alex Varela.
 
 ## License
 
-test
+MIT
 
 
 ## Contributing
@@ -51,7 +51,10 @@ No tests were created for this application.
 
 ## Questions
 
-Contact me via email
+Contact me via -
+
+Email: alexvar93@gmail.com
+GitHub Profile: https://github.com/Fatmoogle
 
 
 ---
