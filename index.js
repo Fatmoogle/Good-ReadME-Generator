@@ -62,6 +62,11 @@ return inquirer.prompt([
     name: "email",
     message: "Please enter your email."
     },
+    {
+    type: "input",
+    name: "questions",
+    message: "How may we go about contacting you?"
+    },
 ])};
 
 // function to write README file with retrieved user input
