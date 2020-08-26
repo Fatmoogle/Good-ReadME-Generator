@@ -57,8 +57,8 @@ ${data.questions}
 
 Reach out to me!
 
-Email: ${email}
-GitHub Profile: ${username} || ${url} 
+Email: ${data.email}
+GitHub Profile: ${data.username} || ${data.url} 
 
 
 
